@@ -18,3 +18,6 @@ ___
 1. Create a `vidyard-wordpress-plugin` directory in `/wp-content/plugins/`.
 2. Copy `vidyard-wordpress-plugin.php` into the `/wp-content/plugins/vidyard-wordpress-plugin` directory.
 3. Open the `Plugins` menu in WordPress to activate the plugin.
+
+
+*Visit the [Vidyard Knowledge Center](http://knowledge.vidyard.com/User_Guides/Channels/011_Publish_your_player/Using_oEmbed_for_Vidyard_players) for more details.*
