@@ -20,4 +20,4 @@ ___
 3. Open the `Plugins` menu in WordPress to activate the plugin.
 
 
-*Visit the [Vidyard Knowledge Center](http://knowledge.vidyard.com/User_Guides/Channels/011_Publish_your_player/Using_oEmbed_for_Vidyard_players) for more details.*
+*Visit the [Vidyard Knowledge Center](https://knowledge.vidyard.com/hc/en-us/articles/360010000393-Using-oEmbed-for-Vidyard-players) for more details.*
